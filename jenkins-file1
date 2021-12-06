@@ -1,0 +1,9 @@
+node {
+  stage 'Stage 1'
+              echo 'Buidling your application'
+  stage 'Stage 2'
+              echo 'Deploying your application'
+   stage 'Stage 3'
+              echo 'check your project'
+        }
+    
