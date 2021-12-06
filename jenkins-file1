@@ -1,9 +1,9 @@
 node {
-  stage 'Stage 1'
+  stage 'Fetch code from GitHub'
               echo 'Buidling your application'
-  stage 'Stage 2'
+  stage 'Install and start Apache
               echo 'Deploying your application'
-   stage 'Stage 3'
+   stage 'Deploy code'
               echo 'check your project'
         }
     
